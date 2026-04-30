@@ -1,0 +1,27 @@
+body {
+    background-image: url('../img/BTTFII.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 30px;
+
+    /* Text */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 5px black;
+}
+
+/* Überschrift */
+h1 {
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+/*Time*/
+p {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
